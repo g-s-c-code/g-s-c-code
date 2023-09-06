@@ -20,6 +20,9 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/></kbd>
 </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="csharp" width="30" height="30"/></kbd>
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
 </a>
