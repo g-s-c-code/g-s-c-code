@@ -27,11 +27,8 @@
   <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
 </a>
 
-<!--
 ##### CERTIFICATIONS:
 
 | Foundational C# with Microsoft | Responsive Web Design |
 |:-------------------------:|:-------------------------:|
 | <a href="https://www.freecodecamp.org/certification/G-C-Code/foundational-c-sharp-with-microsoft" target="_blank" rel="noreferrer"> <img src="https://github.com/G-C-Code/G-C-Code/blob/main/certification-foundational-c-sharp.png" alt="Foundational C# Certification" width="230" height="140"/> </a> | <a href="https://www.freecodecamp.org/certification/G-C-Code/responsive-web-design" target="_blank" rel="noreferrer"> <img src="https://github.com/G-C-Code/G-C-Code/blob/main/certification-responsive-web-design.png" alt="Responsive Web Design Certification" width="230" height="140"/> </a> |
-
--->
