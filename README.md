@@ -27,7 +27,7 @@
   <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
 </a>
 
-##### CERTIFICATIONS:
+#### CERTIFICATIONS:
 
 | Foundational C# with Microsoft | Responsive Web Design |
 |:-------------------------:|:-------------------------:|
