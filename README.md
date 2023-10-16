@@ -14,7 +14,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
 </a>
-<br>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30" height="30"/></kbd>
 </a>
