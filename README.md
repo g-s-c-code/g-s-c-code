@@ -1,4 +1,4 @@
-# Aspiring Fullstack Developer
+# FULLSTACK DEVELOPER
 
 #### LANGUAGES & TOOLS:
 
