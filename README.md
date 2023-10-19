@@ -1,4 +1,4 @@
-# FULLSTACK DEVELOPER
+# Fullstack Developer
 
 #### LANGUAGES & TOOLS:
 
