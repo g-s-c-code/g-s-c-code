@@ -32,11 +32,14 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png?20200524040737" alt="dotnet" width="30" height="30"/></kbd>
 </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="csharp" width="30" height="30"/></kbd>
+</a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/></kbd>
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="csharp" width="30" height="30"/></kbd>
+<a href="https://fsharp.org/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="30" height="30"/></kbd>
 </a>
 
 <!--
