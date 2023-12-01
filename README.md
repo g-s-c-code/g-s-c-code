@@ -11,6 +11,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></kbd>
 </a>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <kbd><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="30" height="30"/></kbd>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/></kbd>
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/></kbd>
+</a>
+
+<br>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
 </a>
