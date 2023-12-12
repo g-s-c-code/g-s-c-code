@@ -2,47 +2,47 @@
 
 #### LANGUAGES & TOOLS:
 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="30" height="30"/></kbd>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/></kbd>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="csharp" width="30" height="30"/></kbd>
+</a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/></kbd>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/></kbd>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></kbd>
 </a>
-<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-  <kbd><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="30" height="30"/></kbd>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/></kbd>
-</a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.svg" alt="swagger" width="30" height="30"/></kbd>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></kbd>
 </a>
 
 <br>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/></kbd>
 </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30" height="30"/></kbd>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/></kbd>
 </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png?20200524040737" alt="dotnet" width="30" height="30"/></kbd>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="30" height="30"/></kbd>
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="csharp" width="30" height="30"/></kbd>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/></kbd>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/></kbd>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/></kbd>
 </a>
-<a href="https://fsharp.org/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="30" height="30"/></kbd>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="30" height="30"/></kbd>
 </a>
 
 <!--
