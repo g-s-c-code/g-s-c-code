@@ -32,11 +32,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></kbd>
 </a>
-<a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://entityframework.net/images/logo.png" alt="Entity Framework" width="50" height="50"/></kbd>
-</a>
 <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="50" height="50"/></kbd>
+</a>
+<a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
+  <kbd><img src="https://entityframework.net/images/logo.png" alt="Entity Framework" width="50" height="50"/></kbd>
 </a>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/></kbd>
