@@ -1,5 +1,3 @@
-# FULLSTACK DEVELOPER
-
 #### LANGUAGES & TOOLS:
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
