@@ -1,4 +1,4 @@
-#### LANGUAGES & TOOLS:
+#### Toolbox:
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/></kbd>
@@ -19,7 +19,7 @@
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></kbd>
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/></kbd>
+  <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></kbd>
 </a>
 
 <br>
