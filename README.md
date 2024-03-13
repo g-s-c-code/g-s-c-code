@@ -1,5 +1,14 @@
-#### Toolbox:
+<a href="https://g-s-c-code.github.io/portfolio" target="_blank" rel="noreferrer">
+  <img src="https://g-s-c-code.github.io/portfolio/images/logo.webp" alt="C#" width="500" />
+</a>
 
+### Projects:
+#### - [Mr C's Classic Car Rental](https://gsc-code-car-rental.netlify.app/)
+#### - [Blackjack](https://gsc-code-blackjack.netlify.app/) 
+
+<br>
+
+### Toolbox:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></kbd>
 </a>
