@@ -2,11 +2,6 @@
   <img src="https://g-s-c-code.github.io/portfolio/images/logo.webp" alt="C#" width="500" />
 </a>
 
-### Projects:
-#### - [Mr C's Classic Car Rental](https://gsc-code-car-rental.netlify.app/)
-#### - [Blackjack](https://gsc-code-blackjack.netlify.app/) 
-
-<br>
 
 ### Toolbox:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -21,9 +16,6 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/dotnet-foundation/swag/main/dotnet-maui/dotnet-maui-purple.png" alt=".NET MAUI" width="50" height="50"/></kbd>
 </a>
-
-<br>
-
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></kbd>
 </a>
@@ -52,8 +44,6 @@
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></kbd>
 </a>
 
-<br>
-
 <a href="https://identityserver.io/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/dotnet-foundation/swag/e095ca0c1f57b2dcb15e012951e69cbe4c43527a/IdentityServer/IDserver_icon.svg" alt="Identity Server" width="50" height="50"/></kbd>
 </a>
@@ -66,3 +56,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></kbd>
 </a>
+
+<br>
+
+### Main Projects:
+#### - [Mr C's Classic Car Rental](https://gsc-code-car-rental.netlify.app/)
+#### - [Blackjack](https://gsc-code-blackjack.netlify.app/) 
+
