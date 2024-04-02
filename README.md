@@ -40,11 +40,11 @@
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30"/></kbd>
 </a>
-<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-  <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/></kbd>
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></kbd>
+</a>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/></kbd>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/></kbd>
