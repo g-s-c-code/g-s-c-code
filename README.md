@@ -50,7 +50,7 @@
   <kbd><img class="skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/></kbd>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <kbd><img class="skills" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg?plain=1" alt="React" width="30" height="30"/></kbd>
+  <kbd><img class="skills" src="https://github.com/g-s-c-code/portfolio/blob/main/images%2Fsvg%2Freact.svg" alt="React" width="30" height="30"/></kbd>
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <kbd><img class="skills" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></kbd>
